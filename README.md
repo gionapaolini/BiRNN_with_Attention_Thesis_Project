@@ -2,6 +2,8 @@
 
 Hi, in this repository you can find the source code used for my research on QA matching.
 
+The data used for my research were provided by CXCompany and cannot be published.
+
 Helpful repositories: 
 
 https://gist.github.com/danijar/3f3b547ff68effb03e20c470af22c696 
