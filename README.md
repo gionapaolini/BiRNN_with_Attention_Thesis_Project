@@ -2,7 +2,7 @@
 
 Hi, in this repository you can find the source code used for my research on QA matching.
 
-The data used for my research were provided by CXCompany and cannot be published.
+The data used for the research were provided by CXCompany and cannot be disclosed.
 
 Helpful repositories: 
 
